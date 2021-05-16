@@ -1,8 +1,8 @@
 import time
 from move_node import Node
 import shelve
-import chess
-from timing_functions import time_score, time_search
+# import chess
+# from timing_functions import time_score, time_search
 
 
 DEPTH = 3

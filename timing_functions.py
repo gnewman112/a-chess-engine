@@ -23,7 +23,7 @@ def get_instance_method(instance, method_name) -> Callable:
 
 def time_search(node: Node, depth, method_name: str):
     """
-    Prints run time for a search function. The last item returned by the test function needs to be the index or list
+    Prints the run time for a search function. The last item returned by the test function needs to be the index or list
     of indices.
 
     :param node: A move node to search
@@ -42,7 +42,7 @@ def time_search(node: Node, depth, method_name: str):
 
 def time_score(node: Node, method_name):
     """
-    Prints run time for 10,000 calls of a scoring function.
+    Prints the run time for 10,000 calls of a scoring function.
 
     :param node: A move node to score
     :param method_name: The name of the method within the Node class

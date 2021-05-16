@@ -157,7 +157,7 @@ class Node:
 
 def print_board(print_list: List):
     """
-    Prints a 8x8 grid of characters from a list 64 items long. Replaces '0' with '.'.
+    Prints a 8x8 grid of characters from a list 64 items long. Replaces '0' with '.'
 
     :param print_list: A 64 item list of single characters or ints
     """

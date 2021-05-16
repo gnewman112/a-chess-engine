@@ -1,6 +1,6 @@
 # a-chess-engine
 
-<img src="https://gregnewman.info/assets/Chess%20Engine.png" alt="chess engine screenshot 4-27-21" width ="500"/>
+<img src="https://gregnewman.info/assets/Chess%20Engine.png" alt="chess engine screenshot" width ="500"/>
 
 ## Introduction
 
@@ -14,7 +14,7 @@ My current focus is on improving speed and accuracy for moves. Both of these pri
 
 ## Suggestions / Improvements
 
-If anyone who has made it here has any suggestions or improvements, please email the to me at ContactGregNewman@gmail.com
+If anyone who has made it here has any suggestions or improvements, please email them to me at ContactGregNewman@gmail.com
 
 ## Built With
 
